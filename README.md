@@ -7,4 +7,4 @@ My name is Sami, I'm a student at 42 Paris and a freelance working majorly with 
 - I usually put my data in CSV and JSON formats, but I am really versatile and always do what the client wants. 
 - I'm easy to understand and work with and I'm sure to deliver the job to your satisfaction. 
 
-Send me an invite/message, I am very much available and happy to talk about how we can work together.
+Do no hesitate to send me an email, I am very much available and happy to talk about how we can work together.
