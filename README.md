@@ -1,10 +1,33 @@
-### Hi there 👋
+### Expertise:
 
-My name is Sami, I'm a student at 42 Paris and a freelance working majorly with Python for web scraping and programming bots.
+- Data Scraping: Utilizing libraries like Scrapy, Selenium, Playwright, and BeautifulSoup to efficiently extract data from various sources, including e-commerce websites, real estate platforms, job boards, betting sites, and social media.
 
-- I use Scrapy, Selenium, Playwright and BeautifulSoup as libraries to get the job done. 
-- I have already scraped e-commerce, real estate, job boards, betting, social media, etc. 
-- I usually put my data in CSV and JSON formats, but I am really versatile and always do what the client wants. 
-- I'm easy to understand and work with and I'm sure to deliver the job to your satisfaction. 
+- Data Transformation: Employing Python to clean, transform, and organize scraped data into structured formats, ensuring its accuracy and usability for downstream analysis.
 
-Do no hesitate to send me an email, I am very much available and happy to talk about how we can work together.
+- Data Delivery: Exporting data in CSV, JSON, or other desired formats, adhering to client specifications and ensuring data integrity.
+
+### Skills:
+
+- Proficient in Python programming, with a strong understanding of data manipulation and analysis techniques.
+
+- Experience with cloud-based data storage and processing platforms, such as Amazon S3, Google Cloud Storage, and Apache Hadoop.
+
+- Familiarity with data visualization tools, enabling effective data presentation and storytelling.
+
+### Services Offered:
+
+- Web Scraping: Gather valuable data from various websites, tailored to your specific needs.
+
+- Data Cleaning and Transformation: Prepare scraped data for analysis by removing inconsistencies, handling missing values, and normalizing data formats.
+
+- Data Automation: Develop automated data pipelines to streamline data collection, processing, and delivery.
+
+### Availability:
+
+- Flexible schedule, adaptable to client requirements and project timelines.
+
+- Eager to collaborate and contribute to the success of your data-driven initiatives.
+
+### Contact:
+
+Email: sami@benouattaf.com
