@@ -10,7 +10,7 @@
 
 - Proficient in Python programming, with a strong understanding of data manipulation and analysis techniques.
 
-- Experience with cloud-based data storage and processing platforms, such as Amazon S3, Google Cloud Storage, and Apache Hadoop.
+- Experience with cloud-based data storage and processing platforms, such as Google Cloud Storage and Apache Airflow.
 
 - Familiarity with data visualization tools, enabling effective data presentation and storytelling.
 
